@@ -30,6 +30,8 @@ gem 'faraday'
 # Dot-env
 gem 'dotenv-rails'
 
+gem 'nokogiri' #, '~>1.6.6.2'
+
 #Testing
 group :test do
   gem 'rspec-rails'
